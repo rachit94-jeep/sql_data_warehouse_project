@@ -1,0 +1,142 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="WRzTStsWeLJJbikyoCjN">
+    <mxGraphModel dx="2551" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0n3qayDO2mYb10niaawn-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="600" width="210" x="190" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-3" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="40.5" x="269.75" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Bookings - ACV" vertex="1">
+          <mxGeometry height="30" width="90" x="245" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-7" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="40.5" x="269.75" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Pipelines - ADRM" vertex="1">
+          <mxGeometry height="30" width="90" x="245" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-9" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="40.5" x="269.75" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="cACV" vertex="1">
+          <mxGeometry height="30" width="90" x="245" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-11" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="40.5" x="269.75" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Churns &amp;amp; Renewals" vertex="1">
+          <mxGeometry height="30" width="90" x="245" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="SAP Managed Data Products" vertex="1">
+          <mxGeometry height="40" width="120" x="235" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="420" width="270" x="560" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-21" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="30" width="160" x="400" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="581.66" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-23" parent="1" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="37.5" width="40" x="631.66" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-25" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="38.75" width="38.75" x="686.66" y="225.25" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-26" parent="1" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="41" width="68.34" x="741.66" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;Data Ingestion&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="430" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;BDC Datasphere&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="643.54" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Data Modelling Layer" vertex="1">
+          <mxGeometry height="30" width="200" x="595" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-32" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="30" width="160" x="830" y="377.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;Data Model Consumption&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="850" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="285" width="240" x="990" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-36" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.reported_state;fillColor=#5294CF;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="63" width="60" x="1080" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="Unified Data Analytics" vertex="1">
+          <mxGeometry height="30" width="190" x="1015" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Dashboards" vertex="1">
+          <mxGeometry height="30" width="90" x="1065" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-39" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_reporting;" value="" vertex="1">
+          <mxGeometry height="45" width="40" x="678.54" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-40" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;" value="" vertex="1">
+          <mxGeometry height="65.8" width="48.4" x="1085.8" y="389.2" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Reports" vertex="1">
+          <mxGeometry height="30" width="90" x="1065" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;BDC SAC&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1055" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Verdana;gradientColor=#b3b3b3;" value="&lt;h2&gt;&lt;b&gt;Business Data Cloud&lt;/b&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="30" width="1040" x="190" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="220" width="40" x="150" y="282.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;fontFamily=Helvetica;fontStyle=1;fontSize=14;" value="Business KPIs" vertex="1">
+          <mxGeometry height="30" width="100" x="120" y="372.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-50" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;BDC Business Metrics Analyzer&lt;/h1&gt;&lt;div style=&quot;text-align: center;&quot;&gt;High Level Data Architecture&lt;/div&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="388.34" x="490.83000000000004" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Data Models&lt;/font&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="643.54" y="264" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Derived Data Products&lt;/font&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="620" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-53" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_reporting;" value="" vertex="1">
+          <mxGeometry height="45" width="40" x="678.54" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-54" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_reporting;" value="" vertex="1">
+          <mxGeometry height="45" width="40" x="678.54" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Top Customers&lt;/font&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="651.04" y="349.2" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Skill&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Transformations&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="651.04" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-57" parent="1" style="line;strokeWidth=1;html=1;" value="" vertex="1">
+          <mxGeometry height="10" width="120" x="640" y="379.2" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-58" parent="1" style="line;strokeWidth=1;html=1;" value="" vertex="1">
+          <mxGeometry height="10" width="120" x="638.54" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Data Intiatives&lt;/i&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="95" x="651.04" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-63" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="40.5" x="269.75" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Certifications" vertex="1">
+          <mxGeometry height="30" width="90" x="245" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

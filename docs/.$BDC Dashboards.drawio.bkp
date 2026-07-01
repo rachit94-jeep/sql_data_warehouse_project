@@ -1,0 +1,55 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="WRzTStsWeLJJbikyoCjN">
+    <mxGraphModel dx="2934" dy="1235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0n3qayDO2mYb10niaawn-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=1;" value="" vertex="1">
+          <mxGeometry height="640" width="210" x="190" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-3" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="40.5" x="269.75" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Bookings" vertex="1">
+          <mxGeometry height="30" width="90" x="245" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-7" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="40.5" x="269.75" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Pipelines" vertex="1">
+          <mxGeometry height="30" width="90" x="245" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-9" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="40.5" x="269.75" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="cACV" vertex="1">
+          <mxGeometry height="30" width="90" x="245" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-11" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="40.5" x="269.75" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Churn" vertex="1">
+          <mxGeometry height="30" width="90" x="245" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-13" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="40.5" x="269.75" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Top Customers" vertex="1">
+          <mxGeometry height="30" width="90" x="245" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Data Products" vertex="1">
+          <mxGeometry height="60" width="120" x="235" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="270" x="560" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-19" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" value="" vertex="1">
+          <mxGeometry height="60" width="50" x="660" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="0n3qayDO2mYb10niaawn-21" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="160" x="400" y="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
